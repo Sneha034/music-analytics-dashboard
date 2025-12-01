@@ -82,7 +82,8 @@ It’s designed to demonstrate advanced **Power BI skills** with interactive vis
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](images/dashboard-preview.png)
+<img width="651" height="357" alt="image" src="https://github.com/user-attachments/assets/0bda6a34-3ddd-4e05-bc99-65849a09f730" />
+
 
 ---
 
